@@ -6,5 +6,5 @@ Proyectos desarrollados en la semana 5:
 | ------------- |:-------------:| -----:|
 |`Bot Telegram`|1|[Link al repo](https://github.com/aydin-due/fizzbuzz)|
 |`SQL`|2|[Link al repo](sql.md)|
-|`Prisma DB`|3|[Link al repo](https://github.com/aydin-due/visual-thinking-api)|
+|`Prisma DB`|3|[Link al repo](https://github.com/aydin-due/database-api)|
 |`Cliente Servidor`|4|[Link al repo](trello.md)|
